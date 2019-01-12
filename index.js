@@ -11,11 +11,11 @@ function setCart(c) {
 
 function addToCart(item) {
 var price = Math.floor((Math.random() * 100) + 1);
-
+var groceriesObject= ()
 }
 
 function viewCart() {
-  // write your code here
+  // write[ your code here
 }
 
 function total() {
