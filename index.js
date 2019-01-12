@@ -12,7 +12,7 @@ function setCart(c) {
 function addToCart(item) {
 var price = Math.floor((Math.random() * 100) + 1);
 var groceriesObject = {itemName: item; itemPrice: price}
-}
+
 
 function viewCart() {
   // write your code here
