@@ -17,6 +17,7 @@ function addToCart(item) {
 }
 
 function viewCart() {
+  var newArray=[]
 if(cart.length===0)
 }
 
